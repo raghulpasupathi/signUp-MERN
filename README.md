@@ -1,3 +1,7 @@
+# SignUp Form - MERN
+
+This is a Signup form with encrypted password parsing in backend
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
